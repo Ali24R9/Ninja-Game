@@ -1,0 +1,80 @@
+p{
+	color:yellow;
+}
+body{
+	background-color:black;
+}
+h1{
+	color:yellow;
+}
+img{
+	height:200px;
+	width:250px;
+}
+#gold{
+	width:20px;
+}
+#yourgold{
+	display:inline-block;
+}
+#table{
+	border: black solid;
+	border-radius: 10px;
+	background-color:;
+
+}
+form{
+	background-color:green;
+}
+td{
+	border: 1px solid green;
+	background-color: green;
+}
+
+div.scroll{
+	background-color:black;
+	border:solid 1px black;
+	width:800px;
+	height:300px;
+	overflow:scroll;
+}
+.imgborder{
+	border:black solid 2px;
+}
+#ninjap{
+	background-color:black;
+	width:1170px;
+	height:50px;
+	border:yellow 1px solid;
+}
+.goldbutton{
+	border:yellow solid 1px;
+	background:black;
+	color:yellow;
+	border-radius:5px;
+}
+#ninjapic{
+	height:48px;
+	width:290px;
+	margin-left:auto;
+	margin-right:auto;
+	display:block;
+	border:black solid 1px;
+	float:left;
+}
+
+}
+ #restart{
+	height:75px;
+	background-color:black;
+	color:white;
+	border-radius:5px;
+	border:red solid 2px;
+	font-weight:bolder;
+}
+.red{
+	color:red;
+}
+.green{
+	color:green;
+}

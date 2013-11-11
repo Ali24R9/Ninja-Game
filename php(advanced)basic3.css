@@ -1,0 +1,35 @@
+
+#gold{
+	width:20px;
+}
+#yourgold{
+	display:inline-block;
+}
+#table{
+	border: black solid;
+
+}
+tr{
+	background-color:yellow;
+}
+form{
+	background-color:yellow;
+}
+td{
+	border: 1px solid green;
+	background-color: yellow;
+}
+/*.scroll{
+	background-color:black;
+	border:solid 1px black;
+	width:1000px;
+	height:300px;
+	overflow: scroll;
+	margin-right:0px;
+}*/
+.red{
+	color:red;
+}
+.green{
+	color:green;
+}
